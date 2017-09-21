@@ -1,0 +1,68 @@
+{
+  "episodios": [
+    {
+      "id": 1,
+      "numero": "I",
+      "nombre": "La amenaza fantasma",
+      "gestion": 1999,
+      "resumen": "Varados en el desértico planeta de Tatooine, después de haber rescatado a la joven reina Amidala de la inminente invasión de Naboo, el aprendiz a Jedi, Obi-Wan Kenobi y su maestro Qui-Gon Jinn descubren a Anakin, un esclavo de 9 años inusualmente fuerte en la Fuerza. Anakin gana una emocionante carrera de Pods y con ello su libertad, esto lo lleva a salir de su hogar para ser entrenado como Jedi. Los héroes regresan a Naboo donde Anakin y la Reina se enfrentan a las fuerzas invasoras, mientras que los dos Jedi pelean con un mortal enemigo llamado Darth Maul. Es entonces que se dan cuenta de que la invasión no es más que el primer paso de un siniestro plan por emergentes fuerzas del lado oscuro conocidos como los Sith.",
+      "foto_Url":"https://lumiere-a.akamaihd.net/v1/images/Star-Wars-Phantom-Menace-I-Poster_3c1ff9eb.jpeg?region=15%2C9%2C651%2C979&width=600"
+    },
+    {
+      "id": 2,
+      "numero": "II",
+      "nombre": "El ataque de los clones",
+      "gestion" : 2002,
+      "resumen" : "Diez años después de la invasión de Naboo, la galaxia está al borde de la guerra civil. Bajo el mando de un Jedi renegado llamado Conde Dooku, miles de sistemas solares amenazan con separarse de la República Galáctica. Tras un atentado contra la Senadora Padmé Amidala, antigua reina de Naboo, Anakin Skylwaker ahora de 20 años y aprendiz de Jedi es asignado para protegerla. Durante su misión, Anakin descubre su amor por Padmé, así como su propio lado oscuro. Pronto, Anakin, Padmé y Obi-Wan Kenobi se ven envueltos en el movimiento separatista y el inicio de las Guerras Clónicas.",
+      "foto_Url":"https://lumiere-a.akamaihd.net/v1/images/Star-Wars-Attack-Clones-II-Poster_53baa2e7.jpeg?region=18%2C0%2C660%2C1000&width=600"
+    },
+    {
+      "id": 3,
+      "numero": "III",
+      "nombre": "La venganza de los Sith",
+      "gestion" : 2005,
+      "resumen" : "Star Wars: Episodio III La venganza de los Sith. Años después del inicio de las Guerra de los Clones, los nobles Caballeros Jedi lideran un gran ejército clon en un combate de toda la galaxia contra los separatistas. Cuando el siniestro Sith devela un plan de mil años de antigüedad para gobernar la galaxia, la República se desmorona y de sus cenizas se eleva el malvado Imperio Galáctico El heroico Jedi, Anakin Skywalker, es seducido por el lado oscuro de la Fuerza para convertirse en el nuevo aprendiz del Emperador, Darth Vader. Los Jedi son diezmados, mientras Obi-Wan Kenobi y el Maestro Jedi Yoda se ven obligados a esconderse. La única esperanza de la galaxia es la propia descendencia de Anakin: los hijos gemelos nacidos en secreto que crecerán hasta convertirse en héroes.",
+      "foto_Url":"https://lumiere-a.akamaihd.net/v1/images/Star-Wars-Revenge-Sith-III-Poster_646108ce.jpeg?region=0%2C0%2C736%2C1090&width=600"
+    },
+    {
+      "id": 4,
+      "numero": "IV",
+      "nombre": "Una nueva esperanza",
+      "gestion" : 1977,
+      "resumen" : "Diecinueve años después de la creación del Imperio, Luke se ve inmerso en la lucha de la Alianza Rebelde cuando conoce a Obi-Wan Kenobi, quien ha vivido recluso durante años en el desértico planeta de Tatooine. Obi-Wan inicia el entrenamiento Jedi de Luke, quien lo acompañará en una atrevida misión para rescatar a la bella líder rebelde, la princesa Leia, de Darth Vader y las garras del Imperio. Aunque Obi-Wan se sacrifica en un duelo de sables de luz con Darth Vader, su antiguo aprendiz, Luke prueba que la Fuerza está con él al destruir la temida Estrella de la Muerte del Imperio.",
+      "foto_Url": "https://lumiere-a.akamaihd.net/v1/images/Star-Wars-New-Hope-IV-Poster_c217085b.jpeg?region=49%2C43%2C580%2C914"
+    },
+    {
+      "id": 5,
+      "numero": "V",
+      "nombre": "El Imperio contraataca",
+      "gestion" : 1980,
+      "resumen" : "Después de la destrucción de la Estrella de la Muerte, las fuerzas imperiales siguen su persecución de los rebeldes. Tras la derrota del ejército rebelde en el planeta helado de Hoth, Luke viaja al planeta Dagobah para continuar su entrenamiento con el maestro Jedi Yoda, quien ha vivido escondido desde la caída de la República. En un intento para convertir a Luke al lado oscuro, Darth Vader lleva al pequeño Skywalker a una trampa en la Ciudad Nube de Bespin. En medio de un intenso duelo con el Lord Sith, Luke se enfrenta a la sorprendente revelación de que el malvado Vader es en realidad su padre, Anakin Skywalker.",
+      "foto_Url": "https://lumiere-a.akamaihd.net/v1/images/Star-Wars-Empire-Strikes-Back-V-Poster_878f7fce.jpeg?region=25%2C22%2C612%2C953&width=600"
+    },
+    {
+      "id": 6,
+      "numero": "VI",
+      "nombre": "El retorno del Jedi",
+      "gestion" : 1983,
+      "resumen" : "La épica conclusión de la saga. El Imperio se prepara para destruir a la rebelión con una Estrella de la Muerte más poderosa, mientras que la rebelión organiza un ataque a la estación espacial. Luke Skywalker enfrenta a Darth Vader en un climático duelo final ante los ojos del malvado Emperador. En el último segundo, Vader toma una decisión trascendental: destruye al Emperador y salva a su hijo. Finalmente el Imperio es derrotado, los Sith son destruidos y Anakin Skywalker se redime a sí mismo. Por fin, se restaura la libertad en la galaxia.",
+      "foto_Url": "https://lumiere-a.akamaihd.net/v1/images/Star-Wars-Return-Jedi-VI-Poster_a10501d2.jpeg?region=12%2C9%2C618%2C982&width=600"
+    },
+    {
+      "id": 7,
+      "numero": "VII",
+      "nombre": "El despertar de la Fuerza",
+      "gestion" : 2015,
+      "resumen" : "Star Wars 7 continúa 30 años después de El retorno del Jedi, con la general Organa al frente de la Resistencia que trata de resistir el empuje de la Primera Orden, liderada por Snoke y sus secuaces cuyo cometido es el de reinstaurar el Imperio.",
+      "foto_Url":"https://lumiere-a.akamaihd.net/v1/images/avco_payoff_1-sht_v7_lg_32e68793.jpeg?region=0%2C0%2C1620%2C2400&width=600"
+    },
+    {
+      "id": 8,
+      "numero": "IIX",
+      "nombre": "Los últimos Jedi",
+      "gestion" : 2017,
+      "resumen" : "El próximo capítulo de la saga Skywalker llega en diciembre de 2017.",
+      "foto_Url": "https://lumiere-a.akamaihd.net/v1/images/sb_teaser2_1-sht_v3a_online_lg_86f89198.jpeg?region=0%2C0%2C960%2C1422&width=600"
+    }
+  ]
+}
